@@ -1,0 +1,40 @@
+{
+  "id": "wng-system-translation-ru",
+  "title": "Translation: Wrath & Glory - System - Перевод RU",
+  "description": "Модуль для перевода системы, созданной Man Moon для игры Warhammer 40k: Wrath & Glory, на русский.",
+  "authors": [
+    {
+      "name": "GrimSmiler",
+      "url": "https://github.com/GrimSmiler",
+      "flags": {}
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "wrath-and-glory",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "coreTranslation": true,
+  "languages": [
+    {
+      "lang": "ru",
+      "name": "Русский",
+      "path": "lang/ru.json",
+      "flags": {}
+    }
+  ],
+  "license": "LICENSE",
+  "readme": "README.md",
+  "url": "https://github.com/GrimSmiler/wng-system-translation-ru",
+  "manifest": "https://github.com/GrimSmiler/wng-system-translation-ru/releases/download/1.0.0/module.json",
+  "download": "https://github.com/GrimSmiler/wng-system-translation-rureleases/download/1.0.0/wng-system-translation-ru.zip"
+}
