@@ -1,4 +1,4 @@
-# [RU] FoundryVTT - Перевод с системы Wrath and Glory
+# [RU] FoundryVTT - Перевод системы Wrath and Glory
 
 ## DISCLAIMER/LICENCE
 
