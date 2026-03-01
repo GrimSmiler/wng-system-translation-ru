@@ -32,3 +32,6 @@ The impact will therefore be visible mainly on the generic terms used in actor s
 ## Зависимости
 
 - Официальная система W&G для Foundry VTT, созданная Man Moon: https://foundryvtt.com/packages/wrath-and-glory/
+
+## Thank you!
+- [alemanym](https://github.com/alemanym) and his [wng-system-translation-fr](https://github.com/alemanym/wng-system-translation-fr) for reference.
