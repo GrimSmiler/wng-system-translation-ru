@@ -261,7 +261,7 @@
   "HEADER.FLY": "Полет",
   "HEADER.WOUNDS": "Раны",
   "HEADER.TRAUMATIC": "Травматический",
-  "HEADER.MEMORABLE": "Memorable",
+  "HEADER.MEMORABLE": "Памятный",
   "HEADER.CORRUPTION": "Скверна",
   "HEADER.MUTATION": "Мутация",
   "HEADER.AWARENESS": "Восприятие",
@@ -611,7 +611,7 @@
   "SETTINGS.TableConfigure": "Настроить таблицы",
   "SETTINGS.TableSettingsHint": "Настройка используемых системой таблиц.",
   "TableSetting.critical": "Таблица критических попаданий",
-  "TableSetting.perils": "Перилы Варпа",
+  "TableSetting.perils": "Опасности Варпа",
   "TableSetting.combatComplications": "Боевые осложнения",
   "TableSetting.complicationConsequences": "Последствия осложнений",
   "WH": {
